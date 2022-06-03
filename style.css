@@ -1,0 +1,14 @@
+body {
+  background: rgb(111,251,252);
+  background: linear-gradient(104deg, rgba(111,251,252,1) 0%, rgba(204,149,32,1) 100%);
+}
+
+li {
+  color: rgb(34, 110, 88);
+  
+}
+
+a:hover {
+  color: white;
+  background-color: darkcyan;
+}
